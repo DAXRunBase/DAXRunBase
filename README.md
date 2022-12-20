@@ -23,4 +23,8 @@ I recently began to study at University of London's new World Class online cours
 ### Recent Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Active record count in ValidTimeState tables](https://www.daxrunbase.com/2022/03/31/active-record-count-in-validtimestate-tables/)
+- [Find tables without cacheLookup property set](https://www.daxrunbase.com/2022/03/31/find-tables-without-cachelookup-property-set/)
+- [SQL record count by company](https://www.daxrunbase.com/2022/03/31/sql-record-count-by-company/)
+- [Identify tables to migrate](https://www.daxrunbase.com/2022/03/31/identify-tables-to-migrate/)
 <!-- BLOG-POST-LIST:END -->
