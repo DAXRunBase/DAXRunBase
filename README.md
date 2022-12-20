@@ -1,9 +1,9 @@
-Hi, my name is Vilmos Kintera and I am from Budapest, Hungary.
+Hi, I am **Vilmos Kintera** from Budapest, Hungary.
 
-I have been working with Microsoft Dynamics Axapta / AX / Dynamics 365 Finance and Supply Chain Management Enterprise since 2003.
+I have been working with **Microsoft Dynamics Axapta / AX / Dynamics 365 Finance and Supply Chain Management** ERP systems since 2003.
 
 
-The nickname I use comes from my fascination with technology on a low level, where RunBase classes are among those in Dynamics AX, so here it is: @DAXRunBase
+The handle comes from my fascination with technology on a low level: RunBase classes for Dynamics AX are among those, so it became: @DAXRunBase
 
 
 I am interested in ERP software development and surrounding technologies, to name a few:
@@ -15,3 +15,12 @@ I am interested in ERP software development and surrounding technologies, to nam
 
 
 I recently began to study at University of London's new World Class online course in order to finish my Bachelor in Science Degree. The curriculum introduces adoption of a lot of current, very relevant advanced technologies which I am interested in next to my dayjob.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAXRunBase&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DAXRunBase&theme=gruvbox&background=000000&mode=weekly)](https://git.io/streak-stats)
+
+### Recent Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
