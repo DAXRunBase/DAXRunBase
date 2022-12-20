@@ -25,8 +25,10 @@ I recently began to study at <img src="./University_of_London_coat_of_arms.svg" 
 - [Identify tables to migrate](https://www.daxrunbase.com/2022/03/31/identify-tables-to-migrate/)
 <!-- BLOG-POST-LIST:END -->
 
+### Statistics
+
 ![DAXRunBase GitHub statistics](https://github-readme-stats.vercel.app/api?username=DAXRunBase&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAXRunBase&layout=compact&theme=merko)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAXRunBase&layout=compact&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DAXRunBase&theme=merko&background=000000&mode=weekly)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DAXRunBase&theme=merko&background=000000&mode=weekly)
