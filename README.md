@@ -1,20 +1,20 @@
 Hi, I am **Vilmos Kintera** from Budapest, Hungary.
 
-I have been working with **Microsoft Dynamics Axapta / AX / Dynamics 365 Finance and Supply Chain Management** ERP systems since 2003.
+I have been working with **Microsoft Dynamics AX (formerly Axapta)** on-premises, then later on **Microsoft Dynamics 365 Finance and Supply Chain Management** cloud ERP systems since 2003.
 
 
-The handle comes from my fascination with technology on a low level: RunBase classes for Dynamics AX are among those, so it became: @DAXRunBase
+The handle comes from my fascination with technology on a deep level: RunBase classes for Dynamics are among those, so I chose @DAXRunBase
 
 
 I am interested in ERP software development and surrounding technologies, to name a few:
+- Improving the toolset for Visual Studio X++ / C# development and creating SQL Server monitoring tools
 - Microsoft Azure and cloud-hosted technologies
 - PowerShell scripting
 - Machine Learning and Artificial Intelligence
 - Automations (build and release management, monitoring, etc.)
-- Improving the toolset for Visual Studio X++ / C# development and creating SQL Server monitoring tools
 
 
-I recently began to study at University of London's new World Class online course in order to finish my Bachelor in Science Degree. The curriculum introduces adoption of a lot of current, very relevant advanced technologies which I am interested in next to my dayjob.
+I recently began to study at <img src="./University_of_London_coat_of_arms.svg" width=15px> **University of London**'s new World Class to finish my Bachelor in Science Degree. The curriculum introduces adoption of a lot of current, very exciting and relevant advanced technologies.
 
 ![DAXRunBase GitHub statistics](https://github-readme-stats.vercel.app/api?username=DAXRunBase&show_icons=true&theme=merko)
 
