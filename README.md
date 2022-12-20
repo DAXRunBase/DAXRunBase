@@ -16,12 +16,6 @@ I am interested in ERP software development and surrounding technologies, to nam
 
 I recently began to study at <img src="./University_of_London_coat_of_arms.svg" width=15px> **University of London**'s new World Class to finish my Bachelor in Science Degree. The curriculum introduces adoption of a lot of current, very exciting and relevant advanced technologies.
 
-![DAXRunBase GitHub statistics](https://github-readme-stats.vercel.app/api?username=DAXRunBase&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAXRunBase&layout=compact&theme=merko)]
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DAXRunBase&theme=merko&background=000000&mode=weekly)]
-
 ### Recent Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
@@ -30,3 +24,9 @@ I recently began to study at <img src="./University_of_London_coat_of_arms.svg" 
 - [SQL record count by company](https://www.daxrunbase.com/2022/03/31/sql-record-count-by-company/)
 - [Identify tables to migrate](https://www.daxrunbase.com/2022/03/31/identify-tables-to-migrate/)
 <!-- BLOG-POST-LIST:END -->
+
+![DAXRunBase GitHub statistics](https://github-readme-stats.vercel.app/api?username=DAXRunBase&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAXRunBase&layout=compact&theme=merko)]
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DAXRunBase&theme=merko&background=000000&mode=weekly)]
