@@ -18,9 +18,9 @@ I recently began to study at University of London's new World Class online cours
 
 ![DAXRunBase GitHub statistics](https://github-readme-stats.vercel.app/api?username=DAXRunBase&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAXRunBase&layout=compact&theme=merko)](https://github.com/DAXRunBase/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAXRunBase&layout=compact&theme=merko)]
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DAXRunBase&theme=merko&background=000000&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DAXRunBase&theme=merko&background=000000&mode=weekly)]
 
 ### Recent Blog Posts :
 
