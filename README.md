@@ -19,10 +19,10 @@ I recently began to study at <img src="./University_of_London_coat_of_arms.svg" 
 ### Recent Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [D365FO Meetup, 2023 February, Budapest](https://www.daxrunbase.com/2023/02/13/d365fo-meetup-2023-february-budapest/)
 - [Active record count in ValidTimeState tables](https://www.daxrunbase.com/2022/03/31/active-record-count-in-validtimestate-tables/)
 - [Find tables without cacheLookup property set](https://www.daxrunbase.com/2022/03/31/find-tables-without-cachelookup-property-set/)
 - [SQL record count by company](https://www.daxrunbase.com/2022/03/31/sql-record-count-by-company/)
-- [Identify tables to migrate](https://www.daxrunbase.com/2022/03/31/identify-tables-to-migrate/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Statistics
