@@ -19,10 +19,10 @@ I recently began to study at <img src="./University_of_London_coat_of_arms.svg" 
 ### Recent Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft is embracing AI](https://www.daxrunbase.com/2023/03/19/microsoft-is-embracing-ai/)
 - [Self-service VM is slow when getting latest changes](https://www.daxrunbase.com/2023/03/19/self-service-vm-is-slow-when-getting-latest-changes/)
 - [DMF TransferStatus to check entity processing](https://www.daxrunbase.com/2023/03/19/dmf-transferstatus-to-check-entity-processing/)
 - [D365FO Meetup, 2023 February, Budapest](https://www.daxrunbase.com/2023/02/13/d365fo-meetup-2023-february-budapest/)
-- [Career day speaker at Mensa HungarIQa](https://www.daxrunbase.com/2023/01/05/career-day-speaker-at-mensa-hungariqa/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Statistics
